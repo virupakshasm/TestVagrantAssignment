@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[ForeignPlayers countries are  :[South Africa, Australia, Srilanka, Australia]]]>
+    </line>
+    <line>
+      <![CDATA[expectedForeignPlayers count is :4]]>
+    </line>
+    <line>
+      <![CDATA[WicketKeepers name is Dinesh Karthik]]>
+    </line>
+    <line>
+      <![CDATA[expectedWicketKeepers count is more than or equal to :1]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-17T06:07:36Z" name="Suite" finished-at="2023-01-17T06:07:36Z" duration-ms="22">
+    <groups>
+    </groups>
+    <test started-at="2023-01-17T06:07:36Z" name="Test" finished-at="2023-01-17T06:07:36Z" duration-ms="22">
+      <class name="TestVagrant.CodingAssignment.RCBUpcomingteamDetailsTest">
+        <test-method signature="validateForeignPlayersCountTest()[pri:0, instance:TestVagrant.CodingAssignment.RCBUpcomingteamDetailsTest@31920ade]" started-at="2023-01-17T11:37:36Z" name="validateForeignPlayersCountTest" finished-at="2023-01-17T11:37:36Z" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ForeignPlayers countries are  :[South Africa, Australia, Srilanka, Australia]]]>
+            </line>
+            <line>
+              <![CDATA[expectedForeignPlayers count is :4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateForeignPlayersCountTest -->
+        <test-method signature="validateWicketKeeperAvailableTest()[pri:0, instance:TestVagrant.CodingAssignment.RCBUpcomingteamDetailsTest@31920ade]" started-at="2023-01-17T11:37:36Z" name="validateWicketKeeperAvailableTest" finished-at="2023-01-17T11:37:36Z" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[WicketKeepers name is Dinesh Karthik]]>
+            </line>
+            <line>
+              <![CDATA[expectedWicketKeepers count is more than or equal to :1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateWicketKeeperAvailableTest -->
+      </class> <!-- TestVagrant.CodingAssignment.RCBUpcomingteamDetailsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
